@@ -7,7 +7,7 @@
 #### 介绍
 AI 驱动的小说创作平台。采用领先ai agent技术，多种创作模式选择，将转瞬即逝的灵光转换为精彩小说。
 
-》》》[去体验](http://106.14.30.74:8082/)
+》》》[去体验](https://bxai.art/)
 
 ![输入图片说明](https://ggdl1.oss-cn-shanghai.aliyuncs.com/system/home.png)
 
